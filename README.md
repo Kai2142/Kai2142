@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiisfly&label=Profile%20views&color=0e75b6&style=flat" alt="kaiisfly" /> </p>
 
 - 🔭 I’m currently working on **Capstone Project**
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Pytorch**
 - 👨‍💻 All of my projects are available at [https://github.com/Kaiisfly](https://github.com/Kaiisfly)
 - 💬 Ask me about **Python, SQL**
 - 📫 How to reach me **kanseladams@gmail.com**
