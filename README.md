@@ -1,38 +1,53 @@
-<div style="display: flex; justify-content: center;">
-  <a href="https://www.linkedin.com/in/kai-adams-85509b275/">
-    <img src="https://cdn.flatworldsolutions.com/data-science/images/outsource-artificial-neural-networks-services.jpg" alt="MasterHead" style="width: 1000px;">
-  </a>
+<h1 align="left">Kai Ansel Adams | Data Analyst | Problem Solver | Basketball Coach/Skills Trainer</h1>
+
+###
+
+<p align="left">Welcome to my data analyst portfolio! I'm an experienced basketball coach and skills trainer with a strong passion for data analysis. Over the course of 7 years, I have honed my expertise in leveraging data to gain valuable insights in the realm of basketball.<br><br>To further enhance my analytical capabilities, I recently undertook an intensive 7-month data science and machine learning bootcamp at Xccelerate. Throughout the program, I immersed myself in Python, mastering its application in various domains such as exploratory data analysis (EDA), machine learning, and introductory-level deep learning projects. This comprehensive training has equipped me with a solid foundation in these areas, allowing me to effectively extract meaningful information from datasets and develop predictive models.<br><br>As I continue to advance my skill set, I'm eager to delve into the realm of SQL and incorporate SQL projects into my portfolio. This will enable me to effectively manipulate and query databases, further expanding my data analysis capabilities.<br><br>I'm excited to showcase my expertise and demonstrate how the combination of my basketball coaching background and proficiency in data analysis can deliver valuable insights and drive informed decision-making. Feel free to explore my portfolio and discover the impactful projects I've undertaken.</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="Seaborn logo" />
+  <img width="12" />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" alt="Scikit-learn logo" />
 </div>
-<h1 align="center">Hi 👋, I'm Kai Ansel Adams</h1>
-<h3 align="center">Basketball Coach and aspiring Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47a3tpeorb31d0brdstj5a95nz7i95i5g03txzjs3a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiisfly&label=Profile%20views&color=0e75b6&style=flat" alt="kaiisfly" /> </p>
+###
 
-- 🔭 I’m currently working on **Capstone Project (tf_chatbot)**
-- 🌱 I’m currently learning **Pytorch**
-- 👨‍💻 All of my projects are available at [https://github.com/Kaiisfly](https://github.com/Kaiisfly)
-- 💬 Ask me about **Python, SQL**
-- 📫 How to reach me **kanseladams@gmail.com**
+<h2 align="left">About me</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kai-adams-85509b275" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kai-adams-85509b275" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-</p>
+<p align="center">✨ Programming since: 2023<br>📚 I'm currently learning: SQL and Advanced Data Visualization Techniques<br>🎯 Goals: Driving Deep Business Impact through Data Science<br>🎲 Fun fact: I play guitar, build & troubleshoot computers, produce music, workout, and more!</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiisfly&show_icons=true&locale=en&layout=compact" alt="kaiisfly" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiisfly&show_icons=true&locale=en" alt="kaiisfly" /></p>
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify Recently Played" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiisfly&" alt="I apologize for the confusion, but as a text-based AI model, I cannot access or modify external URLs directly. I can only work with the textual content you provide me. If you have any specific questions or need assistance with the content you provided, feel free to ask!
+###
