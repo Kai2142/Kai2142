@@ -42,6 +42,6 @@
 
 ###
 
-<p align="center">✨ Programming since: 2023<br>📚 I'm currently learning: SQL and Advanced Data Visualization Techniques<br>🎯 Goals: Driving Deep Business Impact through Data Science<br>🎲 Fun fact: I play guitar, build & troubleshoot computers, produce music, workout, and more!</p>
+<p align="center">✨ Programming since: 2023<br>📚 I'm currently learning: SQL, Advanced machine learning, and deep learning<br>🎯 Goals: Driving Deep Business Impact through Data Science<br>🎲 Fun fact: I play guitar, build & troubleshoot computers, produce music, workout, and more!</p>
 
 ###
