@@ -45,9 +45,3 @@
 <p align="center">✨ Programming since: 2023<br>📚 I'm currently learning: SQL and Advanced Data Visualization Techniques<br>🎯 Goals: Driving Deep Business Impact through Data Science<br>🎲 Fun fact: I play guitar, build & troubleshoot computers, produce music, workout, and more!</p>
 
 ###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify Recently Played" />
-</div>
-
-###
