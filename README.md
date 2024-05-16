@@ -1,4 +1,4 @@
-<h1 align="left">Kai Ansel Adams | Data Analyst | Problem Solver | Basketball Coach/Skills Trainer</h1>
+<h1 align="left">Kai Ansel Adams | Data Analyst | Problem Solver</h1>
 
 ###
 
